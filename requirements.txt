@@ -1,0 +1,11 @@
+# On Kaggle / Colab, torch + torchvision are preinstalled, so these are already satisfied.
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+matplotlib
+tqdm
+nbformat
+
+# Optional: TensorBoard logging (train.py falls back to CSV-only if it is missing)
+# tensorboard

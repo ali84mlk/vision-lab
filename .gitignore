@@ -1,0 +1,26 @@
+# Data and training outputs (big, reproducible, never commit)
+data/
+checkpoints/
+runs/
+results/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks / editors
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (Kaggle API token etc.)
+kaggle.json
+.env
