@@ -8,6 +8,9 @@ An image classifier you can build **without a strong PC**, and a hands-on way to
 3. **Learn by swapping parts.** Every loss, optimizer and schedule is a small readable module, with a
    from-scratch version and a CPU-only study notebook next to it.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ali84mlk/vision-lab/blob/main/notebooks/runner.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/ali84mlk/vision-lab/blob/main/notebooks/runner.ipynb)
+
 The project is built step by step with **one commit per step**: `git log --oneline` reads like a tutorial.
 
 ## Learning path
