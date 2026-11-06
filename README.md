@@ -17,7 +17,7 @@ The idea:
 - [x] Repo setup
 - [x] Data + utils
 - [x] Model (transfer learning)
-- [ ] Losses + study notebook
+- [x] Losses + study notebook
 - [ ] Optimizers + study notebook
 - [ ] LR schedules + study notebook
 - [ ] Train / evaluate scripts
