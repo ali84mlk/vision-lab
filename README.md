@@ -16,7 +16,7 @@ The idea:
 
 - [x] Repo setup
 - [x] Data + utils
-- [ ] Model (transfer learning)
+- [x] Model (transfer learning)
 - [ ] Losses + study notebook
 - [ ] Optimizers + study notebook
 - [ ] LR schedules + study notebook
