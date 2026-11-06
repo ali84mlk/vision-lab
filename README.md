@@ -15,7 +15,7 @@ The idea:
 ## Status
 
 - [x] Repo setup
-- [ ] Data + utils
+- [x] Data + utils
 - [ ] Model (transfer learning)
 - [ ] Losses + study notebook
 - [ ] Optimizers + study notebook
