@@ -20,7 +20,7 @@ The idea:
 - [x] Losses + study notebook
 - [x] Optimizers + study notebook
 - [x] LR schedules + study notebook
-- [ ] Train / evaluate scripts
+- [x] Train / evaluate scripts
 - [ ] Comparison experiment
 - [ ] Kaggle / Colab runner notebook
 
