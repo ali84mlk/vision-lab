@@ -224,7 +224,8 @@ def run(args: argparse.Namespace) -> dict:
         if tb:
             tb.close()
 
-    print(f"done. best val acc {best_acc:.3f}. checkpoints + metrics.csv in {run_dir}")
+    saved = "checkpoints + metrics.csv" if args.save_checkpoints else "metrics.csv"
+    print(f"done. best val acc {best_acc:.3f}. {saved} in {run_dir}")
     return {"best_acc": best_acc, "history": history, "run_dir": str(run_dir)}
 
 

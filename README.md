@@ -21,7 +21,7 @@ The idea:
 - [x] Optimizers + study notebook
 - [x] LR schedules + study notebook
 - [x] Train / evaluate scripts
-- [ ] Comparison experiment
+- [x] Comparison experiment
 - [ ] Kaggle / Colab runner notebook
 
 ## Quick start (local, CPU)
