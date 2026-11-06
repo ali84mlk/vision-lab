@@ -1,0 +1,15 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/vision-lab-runner",
+  "title": "Vision Lab Runner",
+  "code_file": "runner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

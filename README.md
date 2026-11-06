@@ -22,7 +22,7 @@ The idea:
 - [x] LR schedules + study notebook
 - [x] Train / evaluate scripts
 - [x] Comparison experiment
-- [ ] Kaggle / Colab runner notebook
+- [x] Kaggle / Colab runner notebook
 
 ## Quick start (local, CPU)
 
