@@ -19,7 +19,7 @@ The idea:
 - [x] Model (transfer learning)
 - [x] Losses + study notebook
 - [x] Optimizers + study notebook
-- [ ] LR schedules + study notebook
+- [x] LR schedules + study notebook
 - [ ] Train / evaluate scripts
 - [ ] Comparison experiment
 - [ ] Kaggle / Colab runner notebook
